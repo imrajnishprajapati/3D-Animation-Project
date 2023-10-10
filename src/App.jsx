@@ -8,7 +8,7 @@ import Service from './Service';
 import Navbar from './Navbar';
 import Footer from './footer';
 import { Switch, Route, Redirect } from 'react-router-dom';
-import "./index.css"
+import "./index.css";
 
 
 const App = () => {
